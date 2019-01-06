@@ -45,63 +45,82 @@ AWS/GCP/Azure
   <tr>
     <td><a href="https://aws.amazon.com/swf">Amazon SWF</a></td>
     <td><a href="https://cloud.google.com/pubsub">Google Cloud Pub/Sub</a></td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/sqs">Amazon SQS</a></td>
     <td><a href="https://cloud.google.com/functions">Google Cloud Functions</a></td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/ses">Amazon SES</a></td>
     <td><a href="https://cloud.google.com/stackdriver">Google Stackdriver</a></td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/cloudwatch">Amazon CloudWatch</a></td>
     <td><a href="https://cloud.google.com/bigquery">Google BigQuery</a></td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/codepipeline">AWS CodePipeline</a></td>
     <td><a href="https://cloud.google.com/vision">Google Cloud Vision API</a></td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/codecommit">AWS CodeCommit</a></td>
     <td><a href="https://cloud.google.com/speech-to-text">Google Cloud Speech-to-Text</a></td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/sns">Amazon SNS</a></td>
     <td><a href="https://cloud.google.com/natural-language">Google Cloud Natural Language</a></td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/cognito">Amazon Cognito</a></td>
     <td><a href="https://cloud.google.com/shell">Google Cloud Shell</a></td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/kms">AWS Key Management Service</a></td>
     <td><a href="https://cloud.google.com/cloud-build">Google Cloud Build</a></td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/dynamodb">Amazon DynamoDB</a></td>
     <td><a href="https://cloud.google.com/source-repositories">Google Cloud Source Repositories</a></td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/lambda">AWS Lambda</a></td>
     <td><a href="https://cloud.google.com/marketplace">GCP Marketplace</a></td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/glacier">Amazon Glacier</a></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/glue">AWS Glue</a></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/macie">Amazon Macie</a></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/license-manager">AWS License Manager</a></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/well-architected-tool">AWS Well Architected Tool</a></td>
+    <td></td>
+    <td></td>
   </tr>
 
 </table>
