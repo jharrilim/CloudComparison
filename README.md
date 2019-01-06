@@ -4,7 +4,7 @@ AWS/GCP/Azure
 
 ---
 
-## Free Services Directory
+## Always Free Services
 
 <table>
   <tr>
@@ -13,33 +13,34 @@ AWS/GCP/Azure
     <th colspan="1"><a href="https://azure.microsoft.com/en-us/free">Azure</a></th>
   </tr>
   <tr>
-    <td>Always Free</td>
-    <td>Always Free</td>
-    <td>Always Free</td>
-  </tr>
-  <tr>
     <td><a href="https://aws.amazon.com/storagegateway">AWS Storage Gateway</a></td>
     <td><a href="https://cloud.google.com/appengine">Google App Engine</a></td>
+    <td><a href="https://azure.microsoft.com/en-ca/services/app-service">Azure App Service</a></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/dms">AWS Data Migration Service</a></td>
     <td><a href="https://cloud.google.com/compute">Google Compute Engine</a></td>
+    <td><a href="https://azure.microsoft.com/en-ca/services/functions">Azure Functions</a></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/xray">AWS X-Ray</a></td>
     <td><a href="https://cloud.google.com/kubernetes-engine">Google Kubernetes Engine</a></td>
+    <td><a href="https://azure.microsoft.com/en-ca/services/kubernetes-service">Azure Kubernetes Service (AKS)</a></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/step-functions">AWS Step Functions</a></td>
     <td><a href="https://cloud.google.com/datastore">Google Cloud Datastore</a></td>
+    <td><a href="https://azure.microsoft.com/en-ca/services/cognitive-services/face">Azure Face API</a></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/codebuild">AWS CodeBuild</a></td>
     <td><a href="https://cloud.google.com/firestore">Google Cloud Firestore</a></td>
+    <td><a href="https://azure.microsoft.com/en-ca/services/devtest-lab">Azure DevTest Labs</a></td>
   </tr>
   <tr>
     <td><a href="https://chime.aws">Amazon Chime</a></td>
     <td><a href="https://cloud.google.com/storage">Google Cloud Storage</a></td>
+    <td><a href="https://azure.microsoft.com/en-ca/services/active-directory">Azure Active Directory</a></td>
   </tr>
   <tr>
     <td><a href="https://aws.amazon.com/swf">Amazon SWF</a></td>
