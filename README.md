@@ -1,10 +1,12 @@
-# CloudComparison
-
-AWS/GCP/Azure
+# Comparisons Between AWS/GCP/Azure
 
 ---
 
 ## Always Free Services
+
+All of the cloud providers offer free cloud services. A few are unlimited, but most have a specific allowance per month.
+
+
 
 <table>
   <tr>
@@ -126,3 +128,13 @@ AWS/GCP/Azure
 </table>
 
 ---
+
+## Limited Free services
+
+AWS, GCP, and Azure both offer limited free services, each in a different form:
+
+- AWS offers 12 months of free services specified from a choice of 33 services [listed here.](https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%2312monthsfree)
+
+- GCP gives you a $300 allowance to spend on any of their services within a 12 month period.
+
+- Azure gives you $200 allowance to spend on whatever you wish within 30 days, as well as 12 months of free services from a choice of 8 services [listed here.](https://azure.microsoft.com/en-us/free)
